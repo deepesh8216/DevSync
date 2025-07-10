@@ -7,7 +7,6 @@ import ConvexClerkProvider from "@/components/providers/ConvexClerkProvider";
 import Navbar from "@/components/Navbar";
 import { ThemeProvider } from "@/components/providers/ThemeProvider";
 import { Toaster } from "react-hot-toast";
-import { StreamVideoClient } from '@stream-io/video-node-sdk';
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
